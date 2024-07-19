@@ -1,0 +1,7 @@
+{
+  "name": "videoPlayerApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
